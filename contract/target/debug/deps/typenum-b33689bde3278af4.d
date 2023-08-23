@@ -1,0 +1,18 @@
+/home/fsikali/Desktop/TT_2/MY_PROJECTS/hello-near/contract/target/debug/deps/typenum-b33689bde3278af4.rmeta: /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/lib.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/bit.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/int.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/marker_traits.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/operator_aliases.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/private.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/type_operators.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/uint.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/array.rs /home/fsikali/Desktop/TT_2/MY_PROJECTS/hello-near/contract/target/debug/build/typenum-e33d14a6ec63fd2b/out/op.rs /home/fsikali/Desktop/TT_2/MY_PROJECTS/hello-near/contract/target/debug/build/typenum-e33d14a6ec63fd2b/out/consts.rs
+
+/home/fsikali/Desktop/TT_2/MY_PROJECTS/hello-near/contract/target/debug/deps/typenum-b33689bde3278af4.d: /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/lib.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/bit.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/int.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/marker_traits.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/operator_aliases.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/private.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/type_operators.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/uint.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/array.rs /home/fsikali/Desktop/TT_2/MY_PROJECTS/hello-near/contract/target/debug/build/typenum-e33d14a6ec63fd2b/out/op.rs /home/fsikali/Desktop/TT_2/MY_PROJECTS/hello-near/contract/target/debug/build/typenum-e33d14a6ec63fd2b/out/consts.rs
+
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/lib.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/bit.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/int.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/marker_traits.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/operator_aliases.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/private.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/type_operators.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/uint.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/array.rs:
+/home/fsikali/Desktop/TT_2/MY_PROJECTS/hello-near/contract/target/debug/build/typenum-e33d14a6ec63fd2b/out/op.rs:
+/home/fsikali/Desktop/TT_2/MY_PROJECTS/hello-near/contract/target/debug/build/typenum-e33d14a6ec63fd2b/out/consts.rs:
+
+# env-dep:TYPENUM_BUILD_CONSTS=/home/fsikali/Desktop/TT_2/MY_PROJECTS/hello-near/contract/target/debug/build/typenum-e33d14a6ec63fd2b/out/consts.rs
+# env-dep:TYPENUM_BUILD_OP=/home/fsikali/Desktop/TT_2/MY_PROJECTS/hello-near/contract/target/debug/build/typenum-e33d14a6ec63fd2b/out/op.rs

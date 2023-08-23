@@ -1,0 +1,14 @@
+/home/fsikali/Desktop/TT_2/MY_PROJECTS/hello-near/integration-tests/target/debug/deps/zip-ce33253c2773ce8b.rmeta: /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/lib.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/compression.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/cp437.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/crc32.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/read.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/result.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/spec.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/types.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/write.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/zipcrypto.rs
+
+/home/fsikali/Desktop/TT_2/MY_PROJECTS/hello-near/integration-tests/target/debug/deps/zip-ce33253c2773ce8b.d: /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/lib.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/compression.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/cp437.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/crc32.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/read.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/result.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/spec.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/types.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/write.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/zipcrypto.rs
+
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/lib.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/compression.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/cp437.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/crc32.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/read.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/result.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/spec.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/types.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/write.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/zip-0.5.13/src/zipcrypto.rs:

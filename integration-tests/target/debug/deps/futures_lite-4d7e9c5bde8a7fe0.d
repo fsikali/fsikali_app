@@ -1,0 +1,11 @@
+/home/fsikali/Desktop/TT_2/MY_PROJECTS/hello-near/integration-tests/target/debug/deps/futures_lite-4d7e9c5bde8a7fe0.rmeta: /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.13.0/src/lib.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.13.0/src/future.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.13.0/src/prelude.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.13.0/src/stream.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.13.0/src/io.rs
+
+/home/fsikali/Desktop/TT_2/MY_PROJECTS/hello-near/integration-tests/target/debug/deps/libfutures_lite-4d7e9c5bde8a7fe0.rlib: /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.13.0/src/lib.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.13.0/src/future.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.13.0/src/prelude.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.13.0/src/stream.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.13.0/src/io.rs
+
+/home/fsikali/Desktop/TT_2/MY_PROJECTS/hello-near/integration-tests/target/debug/deps/futures_lite-4d7e9c5bde8a7fe0.d: /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.13.0/src/lib.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.13.0/src/future.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.13.0/src/prelude.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.13.0/src/stream.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.13.0/src/io.rs
+
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.13.0/src/lib.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.13.0/src/future.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.13.0/src/prelude.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.13.0/src/stream.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.13.0/src/io.rs:

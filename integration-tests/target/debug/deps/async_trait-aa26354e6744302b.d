@@ -1,0 +1,12 @@
+/home/fsikali/Desktop/TT_2/MY_PROJECTS/hello-near/integration-tests/target/debug/deps/libasync_trait-aa26354e6744302b.so: /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.73/src/lib.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.73/src/args.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.73/src/bound.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.73/src/expand.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.73/src/lifetime.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.73/src/parse.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.73/src/receiver.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.73/src/verbatim.rs
+
+/home/fsikali/Desktop/TT_2/MY_PROJECTS/hello-near/integration-tests/target/debug/deps/async_trait-aa26354e6744302b.d: /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.73/src/lib.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.73/src/args.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.73/src/bound.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.73/src/expand.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.73/src/lifetime.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.73/src/parse.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.73/src/receiver.rs /home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.73/src/verbatim.rs
+
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.73/src/lib.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.73/src/args.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.73/src/bound.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.73/src/expand.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.73/src/lifetime.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.73/src/parse.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.73/src/receiver.rs:
+/home/fsikali/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.73/src/verbatim.rs:
